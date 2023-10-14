@@ -2,7 +2,7 @@ var quiz = {
 "JS": [
 {
 "id": 1,
-"question": "1",
+"question": "2+2",
 "options": [
 {
 "a": "4",
@@ -17,7 +17,7 @@ var quiz = {
 },
 {
 "id": 2,
-"question": "2",
+"question": "2+2",
 "options": [
 {
 "a": "4",
@@ -32,7 +32,7 @@ var quiz = {
 },
 {
 "id": 3,
-"question": "",
+"question": "2+2",
 "options": [
 {
 "a": "4",
@@ -47,7 +47,7 @@ var quiz = {
 },
 {
 "id": 4,
-"question": "4",
+"question": "2+2",
 "options": [
 {
 "a": "4",
@@ -62,7 +62,7 @@ var quiz = {
 },
 {
 "id": 5,
-"question": "5",
+"question": "2+2",
 "options": [
 {
 "a": "4",
@@ -77,7 +77,7 @@ var quiz = {
 },
 {
 "id": 6,
-"question": "6",
+"question": "2+2",
 "options": [
 {
 "a": "4",
@@ -92,7 +92,7 @@ var quiz = {
 },
 {
 "id": 7,
-"question": "7",
+"question": "2+2",
 "options": [
 {
 "a": "4",
@@ -107,7 +107,7 @@ var quiz = {
 },
 {
 "id": 8,
-"question": "8",
+"question": "2+2",
 "options": [
 {
 "a": "4",
@@ -122,7 +122,7 @@ var quiz = {
 },
 {
 "id": 9,
-"question": "9",
+"question": "2+2",
 "options": [
 {
 "a": "4",
@@ -137,7 +137,7 @@ var quiz = {
 },
 {
 "id": 10,
-"question": "10",
+"question": "2+2",
 "options": [
 {
 "a": "4",
