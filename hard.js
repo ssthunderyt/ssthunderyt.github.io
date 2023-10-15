@@ -62,19 +62,16 @@ var quiz = {
 },
 {
 "id": 5,
-"question": "Add 4xy² – 7x²y, 12x²y -6xy², -3x²y + 5xy²",
+"question": "3/2a – 5/4b + 2/5c, 2/3a – 7/2b + 7/2c, 5/3a + 5/2b – 5/4c",
 "options": [
 {
-"a": "12xy + 3x²y + 7x²y -6xy² + 5xy² -4xy²",
-"b": "12x²y – 3x²y – 7x²y – 6xy² + 5xy² + 4xy²
-3xy² + 2x²y",
-"c": "12x²y – 3x²y – x²y – 6xy² + 5xy² + 4xy²
-3y² + 2x",
-"d": "xy + x²y + 7xy² - 6xy"
+"a": "23a/6 + 9b/4 - 53c/20,
+"b": "23b/6 – 9a/4 + 53c/20",
+"c": "13a/6 – 9b/4 + 43c/20",
+"d": "23a/6 – 9b/4 + 53c/20"
 }
 ],
-"answer": "12x²y – 3x²y – 7x²y – 6xy² + 5xy² + 4xy²
-3xy² + 2x²y",
+"answer": "23a/6 – 9b/4 + 53c/20",
 "score": 0,
 "status": ""
 },
