@@ -2,76 +2,79 @@ var quiz = {
 "JS": [
 {
 "id": 1,
-"question": "3+2",
+"question": "Subtract 2x³ – 4x² + 3x + 5 from 4x³ + x² + x + 6",
 "options": [
 {
-"a": "4",
-"b": "3",
-"c": "2",
-"d": "5"
+"a": "2x³ + 5x⁴ – 2x + 1",
+"b": "2x³ + 5x² – 2x",
+"c": "-2x³ - 5x² – 2x + 1",
+"d": "2x³ + 5x² – 2x + 1"
 }
 ],
-"answer": "5",
+"answer": "2x³ + 5x² – 2x + 1",
 "score": 0,
 "status": ""
 },
 {
 "id": 2,
-"question": "5-3",
+"question": "Add 2/3a, 3/5a, -6/5a",
 "options": [
 {
-"a": "4",
-"b": "3",
-"c": "2",
-"d": "5"
+"a": "2a/21",
+"b": "a/30",
+"c": "a/15",
+"d": "15/a"
 }
 ],
-"answer": "2",
+"answer": "a/15",
 "score": 0,
 "status": "3"
 },
 {
 "id": 3,
-"question": "7-3",
+"question": "Subtract 2/3y³ – 2/7y² – 5 from 1/3y³ + 5/7y² + y – 2",
 "options": [
 {
-"a": "4",
-"b": "3",
-"c": "2",
-"d": "5"
+"a": "-1/3y³ + y² + y + 3",
+"b": "-1/2x³ – 1/2x + 3/2",
+"c": "2/y³ + y⁷ + y + 2",
+"d": "-2/y³ + y⁴ + y - 2"
 }
 ],
-"answer": "4",
+"answer": "-1/3y3 + y2 + y + 3",
 "score": 0,
 "status": ""
 },
 {
 "id": 4,
-"question": "13-10",
+"question": "Simplify x² – 3x + 5 – 1/2(3x² – 5x + 7)",
 "options": [
 {
-"a": "4",
-"b": "3",
-"c": "2",
-"d": "5"
+"a": "1/2x² – 1/2x + 3/2",
+"b": "-1/2x² + 1/2x - 3/2",
+"c": "-1/x² – 1/3x + 3/2",
+"d": "-1/2x² – 1/2x + 3/2"
 }
 ],
-"answer": "3",
+"answer": "-1/2x² – 1/2x + 3/2",
 "score": 0,
 "status": ""
 },
 {
 "id": 5,
-"question": "2+3",
+"question": "Add 4xy² – 7x²y, 12x²y -6xy², -3x²y + 5xy²",
 "options": [
 {
-"a": "4",
-"b": "3",
-"c": "2",
-"d": "5"
+"a": "12xy + 3x²y + 7x²y -6xy² + 5xy² -4xy²",
+"b": "12x²y – 3x²y – 7x²y – 6xy² + 5xy² + 4xy²
+3xy² + 2x²y",
+"c": "12x²y – 3x²y – x²y – 6xy² + 5xy² + 4xy²
+3y² + 2x",
+"d": "xy + x²y + 7xy² - 6xy"
 }
 ],
-"answer": "5",
+"answer": "12x²y – 3x²y – 7x²y – 6xy² + 5xy² + 4xy²
+3xy² + 2x²y",
 "score": 0,
 "status": ""
 },
