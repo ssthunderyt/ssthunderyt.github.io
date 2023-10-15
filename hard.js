@@ -75,12 +75,6 @@ var quiz = {
 "score": 0,
 "status": ""
 },
-{
-],
-"answer": "3",
-"score": 0,
-"status": ""
-},
 ]
 }
 var quizApp = function () {
