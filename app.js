@@ -2,31 +2,31 @@ var quiz = {
 "JS": [
 {
 "id": 1,
-"question": "2+2",
+"question": "a – b + ab, b – c + bc, c – a + ac",
 "options": [
 {
-"a": "4",
-"b": "3",
-"c": "2",
-"d": "5"
+"a": "-ab-bc-ac",
+"b": "ab+bc+ac",
+"c": "ab-bc+ac",
+"d": "ab+bc-ac"
 }
 ],
-"answer": "4",
+"answer": "ab+bc+ac",
 "score": 0,
 "status": ""
 },
 {
 "id": 2,
-"question": "2+2",
+"question": "2p²q² – 3pq + 4, 5 + 7pq – 3p²q²",
 "options": [
 {
-"a": "4",
-"b": "3",
-"c": "2",
-"d": "5"
+"a": "2pq+7-pq²",
+"b": "9pq+4-p²q",
+"c": "4pq+9–p²q²",
+"d": "7pq+11-p²q²"
 }
 ],
-"answer": "4",
+"answer": "4pq+9–p²q²",
 "score": 0,
 "status": "3"
 },
