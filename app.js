@@ -32,121 +32,46 @@ var quiz = {
 },
 {
 "id": 3,
-"question": "2+2",
+"question": "Subtract 2a-b from 3a-5b",
 "options": [
 {
-"a": "4",
-"b": "3",
-"c": "2",
-"d": "5"
+"a": "a-5b",
+"b": "2a-2b",
+"c": "b-4a",
+"d": "a – 4b"
 }
 ],
-"answer": "4",
+"answer": "a – 4b",
 "score": 0,
 "status": ""
 },
 {
 "id": 4,
-"question": "2+2",
+"question": "Add 3a²b, -4a²b, 9a²b",
 "options": [
 {
-"a": "4",
-"b": "3",
-"c": "2",
-"d": "5"
+"a": "8a³b",
+"b": "8a³b2",
+"c": "8a²b",
+"d": "8b²a"
 }
 ],
-"answer": "4",
+"answer": "8a²b",
 "score": 0,
 "status": ""
 },
 {
 "id": 5,
-"question": "2+2",
+"question": "Simplify [5 – 3x + 2y – (2x – y)] – (3x – 7y + 9)",
 "options": [
 {
-"a": "4",
-"b": "3",
-"c": "2",
-"d": "5"
+"a": "-8x + 10y – 4",
+"b": "8x + 10y -4",
+"c": "8x - 10y + 4",
+"d": "4x + 5y - 2"
 }
 ],
-"answer": "4",
-"score": 0,
-"status": ""
-},
-{
-"id": 6,
-"question": "2+2",
-"options": [
-{
-"a": "4",
-"b": "3",
-"c": "2",
-"d": "5"
-}
-],
-"answer": "4",
-"score": 0,
-"status": ""
-},
-{
-"id": 7,
-"question": "2+2",
-"options": [
-{
-"a": "4",
-"b": "3",
-"c": "2",
-"d": "5"
-}
-],
-"answer": "4",
-"score": 0,
-"status": ""
-},
-{
-"id": 8,
-"question": "2+2",
-"options": [
-{
-"a": "4",
-"b": "3",
-"c": "2",
-"d": "5"
-}
-],
-"answer": "4",
-"score": 0,
-"status": ""
-},
-{
-"id": 9,
-"question": "2+2",
-"options": [
-{
-"a": "4",
-"b": "3",
-"c": "2",
-"d": "5"
-}
-],
-"answer": "4",
-"score": 0,
-"status": ""
-},
-{
-"id": 10,
-"question": "2+2",
-"options": [
-{
-"a": "4",
-"b": "3",
-"c": "2",
-"d": "5"
-}
-],
-"answer": "4",
+"answer": "-8x + 10y – 4",
 "score": 0,
 "status": ""
 },
