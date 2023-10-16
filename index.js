@@ -35,7 +35,7 @@ optionD: "-1/2x² – 1/2x + 3/2",
 correctOption: "optionA"
 },
 {
-question: "3/2a – 5/4b + 2/5c, 2/3a – 7/2b + 7/2c, 5/3a + 5/2b – 5/4c",
+question: "add 3/2a – 5/4b + 2/5c, 2/3a – 7/2b + 7/2c, 5/3a + 5/2b – 5/4c",
 optionA: "23a/6 + 9b/4 - 53c/20",
 optionB: "23b/6 – 9a/4 + 53c/20",
 optionC: "13a/6 – 9b/4 + 43c/20",
@@ -43,7 +43,7 @@ optionD: "23a/6 – 9b/4 + 53c/20",
 correctOption: "optionD"
 },
 {
-question: "a – b + ab, b – c + bc, c – a + ac",
+question: "add a – b + ab, b – c + bc, c – a + ac",
 optionA: "-ab-bc-ac",
 optionB: "ab+bc+ac",
 optionC: "ab-bc+ac",
@@ -51,7 +51,7 @@ optionD: "ab+bc-ac",
 correctOption: "optionB"
     },
 {
-question: "2p²q² – 3pq + 4, 5 + 7pq – 3p²q²",
+question: "add 2p²q² – 3pq + 4, 5 + 7pq – 3p²q²",
 optionA: "2pq+7-pq²",
 optionB: "9pq+4-p²q",
 optionC: "4pq+9–p²q²",
