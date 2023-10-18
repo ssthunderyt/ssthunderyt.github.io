@@ -121,8 +121,8 @@ body {
 }
 
 .about-me img {
-  width: 700px;
-  max-width: 100%;
+  width: 550px;
+  max-width: 120%;
   height: auto;
   border-radius: 10px;
 }
