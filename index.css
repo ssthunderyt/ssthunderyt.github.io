@@ -30,47 +30,47 @@ main{
 }
 
 .game-quiz-container{
-    width: 40rem;
-    height: 30rem;
+    width: 50rem;
+    height: 50rem;
     background-color: lightgray;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
-    border-radius: 30px;
+    border-radius: 50px;
 }
 
 .game-details-container{
-    width: 80%;
-    height: 4rem;
+    width: 100%;
+    height: 6rem;
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
 
 .game-details-container h1{
-    font-size: 1.2rem;
+    font-size: 2rem;
 }
 
 .game-question-container{
     width: 80%;
-    height: 8rem;
+    height: 12rem;
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 2px solid darkgray;
-    border-radius: 25px;
+    border: 3px solid darkgray;
+    border-radius: 35px;
 }
 
 .game-question-container h1{
-    font-size: 1.1rem;
+    font-size: 2rem;
     text-align: center;
-    padding: 3px;
+    padding: 5px;
 }
 
 .game-options-container{
     width: 80%;
-    height: 12rem;
+    height: 16rem;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -78,10 +78,10 @@ main{
 }
 
 .game-options-container span{
-    width: 45%;
-    height: 3rem;
-    border: 2px solid darkgray;
-    border-radius: 20px;
+    width: 65%;
+    height: 4.5rem;
+    border: 4px solid darkgray;
+    border-radius: 30px;
     overflow: hidden;
 }
 span label{
@@ -92,6 +92,7 @@ span label{
     justify-content: center;
     cursor: pointer;
     transition: transform 0.3s;
+    font-size: 25px;
     font-weight: 600;
     color: rgb(22, 22, 22);
 }
@@ -114,18 +115,19 @@ input[type=radio]:checked ~ .option {
 }
 
 .next-button-container{
-    width: 50%;
-    height: 3rem;
+    width: 65%;
+    height: 4rem;
     display: flex;
     justify-content: center;
 }
 .next-button-container button{
-    width: 8rem;
-    height: 2rem;
+    width: 10rem;
+    height: 3rem;
     border-radius: 10px;
     background: none;
     color: rgb(25, 25, 25);
     font-weight: 600;
+    font-size: 20px;
     border: 2px solid gray;
     cursor: pointer;
     outline: none;
@@ -279,4 +281,5 @@ input[type=radio]:checked ~ .option {
   @-webkit-keyframes fadeIn {
     from {opacity: 0;}
     to {opacity: 1;}
-  }
+    }
+    
