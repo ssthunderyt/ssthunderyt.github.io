@@ -23,7 +23,7 @@ main{
     align-items: center;
     background-color: black;
     background: url('../assets/background_image.jpg');
-    background-color : black;
+    background-color : gray;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
